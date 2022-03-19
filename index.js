@@ -1,4 +1,5 @@
-const PORT = process.env.PORT || 8000; // for deploying on heroku
+// const PORT = process.env.PORT || 8000; // for deploying on heroku
+const PORT = 8000; // localhost
 const express = require("express");
 const axios = require("axios");
 const cheerio = require("cheerio");
