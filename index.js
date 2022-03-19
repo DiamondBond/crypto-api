@@ -25,11 +25,11 @@ const news_source = [
     address: "https://decrypt.co",
     base: "https://decrypto.co",
   },
-    {
-      name: "cointelegraph",
-      address: "https://cointelegraph.com",
-      base: "https://cointelegraph.com",
-    },
+  {
+    name: "cointelegraph",
+    address: "https://cointelegraph.com",
+    base: "https://cointelegraph.com",
+  },
   {
     name: "publish0x",
     address: "https://www.publish0x.com",
